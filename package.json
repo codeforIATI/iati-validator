@@ -47,6 +47,6 @@
   "devDependencies": {
     "concurrently": "*",
     "sync-exec": "*",
-    "webpack-dev-server": "<3"
+    "webpack-dev-server": "<4"
   }
 }
